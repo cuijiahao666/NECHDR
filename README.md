@@ -8,7 +8,7 @@ ACMMM 2024 <br>
 
 In this paper, we propose a novel paradigm to render HDR frames via completing the absent exposure information, hence the exposure information is complete and consistent. Our approach involves interpolating neighbor LDR frames in the time dimension to reconstruct LDR
 frames for the absent exposures. Combining the interpolated and given LDR frames, the complete set of exposure information is
-available at each time stamp. This benefits the fusing process for HDR results, reducing noise and ghosting artifacts therefore improving temporal consistency. Extensive experimental evaluations
+available at each time stamp. This benefits the fusing process for HDR results, reducing noise and ghosting artifacts therefore improving temporal consistency. Extensive experimental evaluations
 on standard benchmarks demonstrate that our method achieves state-of-the-art performance, highlighting the importance of absent exposure completing in HDR video rendering.
 
 ## Installation
