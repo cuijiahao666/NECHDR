@@ -61,4 +61,4 @@ python train_3E.py
 
 ## Acknowledgement
 
-This project is based on [HDRFlow]([https://github.com/guanyingc/DeepHDRVideo](https://github.com/OpenImagingLab/HDRFlow)) and [DeepHDRVideo](https://github.com/guanyingc/DeepHDRVideo), we thank all authors for their excellent work.
+This project is based on [HDRFlow](https://github.com/OpenImagingLab/HDRFlow)) and [DeepHDRVideo](https://github.com/guanyingc/DeepHDRVideo), we thank all authors for their excellent work.
